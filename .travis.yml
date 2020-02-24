@@ -1,14 +1,28 @@
 language: node_js
 node_js:
-  - 8
+- stable
 branchs:
   only:
-    - develop
+  - develop
 cache:
   directories:
-    - node_modules
+  - node_modules
 install:
-  - yarn install
+- yarn install
 scripts:
-  - yarn test
-  - yarn build
+- yarn test
+- yarn build
+addons:
+  ssh_known_hosts:
+  - 45.32.33.18 #受信主机
+before_install:
+- openssl aes-256-cbc -K $encrypted_574f1c23860c_key -iv $encrypted_574f1c23860c_iv
+  -in id_rsa.enc -out ~\/.ssh/id_rsa -d
+after_success:
+# 添加Linux文件权限
+- chmod 600 ~/.ssh/id_rsa
+# StrictHostKeyChecking=no 避免ssh第一次连接时需要确认  这里其实也不应该是root用户登录  要新建一个用户才行
+- ssh root@45.32.33.18 -o StrictHostKeyChecking=no
+# 下面的步骤有两种
+# 一是在服务器上有源代码，直接进项目目录，git pull && yarn && yarn build
+# 二是在travis服务器上test和build，也就是上面已经写好的install和scripts命令，然后直接通过 rsync 把dist/build目录同步到模板服务器，只有打包后的资源
