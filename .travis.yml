@@ -22,4 +22,4 @@ scripts:
 - yarn build
 after_success:
 # - ssh root@45.32.33.18 -o StrictHostKeyChecking=no
-- scp -o stricthostkeychecking=no -r /build/ root@45.32.33.18:/root/projects/luogc
+- scp -o stricthostkeychecking=no -r ./build root@45.32.33.18:/root/projects/luogc
