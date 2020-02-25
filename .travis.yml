@@ -20,4 +20,4 @@ scripts:
 - yarn build
 after_success:
 - chmod 600 ~/.ssh/id_rsa_travis
-- ssh root@45.32.33.18 -o StrictHostKeyChecking=no
+- ssh travis@45.32.33.18 -o StrictHostKeyChecking=no 'cd ~/luogc'
