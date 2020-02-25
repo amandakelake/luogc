@@ -14,11 +14,12 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_574f1c23860c_key -iv $encrypted_574f1c23860c_iv
   -in id_rsa.enc -out ~/.ssh/id_rsa -d
 - chmod 600 ~/.ssh/id_rsa
+# - echo -e "Host 45.32.33.18\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 install:
 - yarn install
 scripts:
 - yarn test
 - yarn build
 after_success:
-- ssh root@45.32.33.18 -o StrictHostKeyChecking=no
+# - ssh root@45.32.33.18 -o StrictHostKeyChecking=no
 - scp -o stricthostkeychecking=no -r /build/ root@45.32.33.18:/root/projects/luogc
