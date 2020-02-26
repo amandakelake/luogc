@@ -19,6 +19,7 @@ function App() {
           learn react
         </a>
         <p>luogc</p>
+        <p>travis CI</p>
       </header>
     </div>
   );

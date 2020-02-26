@@ -13,12 +13,12 @@ addons:
 before_install:
 - openssl aes-256-cbc -K $encrypted_574f1c23860c_key -iv $encrypted_574f1c23860c_iv
   -in id_rsa_travis.enc -out ~/.ssh/id_rsa_travis -d
-- chmod 700 ~/.ssh/
-- chmod 600 ~/.ssh/id_rsa_travis
+# - chmod 700 ~/.ssh/
+# - chmod 600 ~/.ssh/id_rsa_travis
 install:
 - yarn install
 scripts:
 - yarn test
 - yarn build
 after_success:
-- scp -o stricthostkeychecking=no -i ~/.ssh/id_rsa_travis  -r ./build travis@45.32.33.18:/home/travis/luogc
+- scp -o stricthostkeychecking=no -i ~/.ssh/id_rsa_travis -r ./build travis@45.32.33.18:/home/travis/luogc
