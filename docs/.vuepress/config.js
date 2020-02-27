@@ -3,6 +3,9 @@ module.exports = {
     title: 'LGC-amandakelake',
     description: 'LGC, amandakelake, blog, Frontend, web, Node, webpack',
     repo: 'https://github.com/amandakelake',
+    head: [
+        ['link', { rel: 'icon', href: 'https://s3.forcloudcdn.com/dmc/d6d10ad7-0eab-4f24-a458-36178179231e-323x323.png' }]
+    ],
     themeConfig: {
         logo: 'https://s3.forcloudcdn.com/dmc/d6d10ad7-0eab-4f24-a458-36178179231e-323x323.png',
         // 添加导航栏
