@@ -1,3 +1,3 @@
 module.exports = {
-    base: '/blog/'
+    // base: '/blog/'
 };
