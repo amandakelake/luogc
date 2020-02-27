@@ -20,5 +20,8 @@ install:
 scripts:
 - yarn test
 - yarn build
+- yarn docs:build
 after_success:
 - scp -o stricthostkeychecking=no -i ~/.ssh/id_rsa_travis -r ./build travis@45.32.33.18:/home/travis/luogc
+- scp -o stricthostkeychecking=no -i ~/.ssh/id_rsa_travis -r ./docs/.vuepress/dist travis@45.32.33.18:/home/travis/luogc
+
