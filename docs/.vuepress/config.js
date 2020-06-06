@@ -12,7 +12,7 @@ module.exports = {
         nav: [
             { text: 'JS基础', link: '/js-basic' },
             { text: '框架', link: '/framework/' },
-            { text: '工程化', link: '/engineering' },
+            { text: '工程化', link: '/engineering/travis' },
             { text: '关于我', link: '/about-me' },
             { text: 'Github', link: 'https://github.com/amandakelake'}
         ],
@@ -23,7 +23,9 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                    '/'
+                    '/',
+                    '/js-basic/this',
+                    '/js-basic/types',
                 ]
             },
             {
