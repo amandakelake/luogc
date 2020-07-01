@@ -13,7 +13,8 @@ module.exports = {
             { text: 'JS基础', link: '/js-basic/this' },
             { text: '框架', link: '/framework/vue' },
             { text: '工程化', link: '/engineering/travis' },
-            { text: '关于我', link: '/about-me/me' },
+            { text: '学习与思考', link: '/learn/learn-think' },
+            { text: '生活', link: '/life/desk' },
             { text: 'Github', link: 'https://github.com/amandakelake'}
         ],
         sidebar: [
@@ -43,6 +44,10 @@ module.exports = {
             {
                 title: '工程化',
                 children: ['/engineering/travis']
+            },
+            {
+                title: '生活',
+                children: ['/life/desk', '/life/software']
             }
         ]
     },
