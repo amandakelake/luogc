@@ -216,7 +216,7 @@
 
 另外，之前不久小米也想来挂灯市场分一杯羹，众筹了一发小米挂灯，已经有不少up主评测过了，据说性价比吊打明基，个人也比较看好，拭目以待吧
 
-我个人目前入了倍思暂用，毕竟还要等小米呢
+我个人目前入了倍思暂用，毕竟还要等小米呢（同学们看到这的时候，估计小米挂灯已经在市场上了）
 
 ## 七、走线
 基本设备都已配备齐全了，接下来就是把所有东西来个大整合，做一下面子工程——走线，保持桌面整洁，尽可能无线
@@ -235,7 +235,7 @@
 
 在【少】这方面，首先基础电源线我有5根是必不可少的
 * 电脑机箱电源线 * 1
-* 显示器电源线 * 2 
+* 显示器电源线 * 2
 * 升降桌电源线 * 1
 * 台灯电源线 * 1
 
@@ -258,25 +258,28 @@
 
 具体大家可以参考以下例子
 * [50元告别凌乱的桌面理线方案 | 低成本极简主义无线桌面 -bilibili](https://www.bilibili.com/video/BV1bp4y11769/?spm_id_from=trigger_reload)
-* [30元打造真无线桌面，灵感来自水电工走线-bilibili](https://www.bilibili.com/video/BV1Eg4y1B7yY/?spm_id_from=333.788.videocard.0) 一直讲思路   
+* [30元打造真无线桌面，灵感来自水电工走线-bilibili](https://www.bilibili.com/video/BV1Eg4y1B7yY/?spm_id_from=333.788.videocard.0) 一直讲思路
 * [这个视频你应该收藏，科技宅教你怎么布置自己的书房-bilibili](https://www.bilibili.com/video/BV1jt411o7yX?from=search&seid=18336202488785283145)
 * [告别凌乱 科技宅教你怎么理线-YouTube](https://www.youtube.com/watch?v=DwOuV4E-wFs)
 
 
-我本质上属于温和派，会尽可能往极致的体验走，但不死磕牛角尖儿，具体理线过程就不贴了，再说也还没搞完
+我本质上属于温和派，会尽可能往极致的体验走，但不死磕牛角尖儿，具体理线过程就不贴了
 
-只用 macbook 的状态
-![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701121107.png)
+这是底下的走线
+![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200705164520.png)
 
-只用 windows 主机的状态
-![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701121435.png)
+用macbook时会多出两根Type-C线，平时是藏在支架那里的
+![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200705164613.png)
 
-办公区整体状态
+用windows主机时是最干净整洁的，桌面上看不到任何一条线
+![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200705164740.png)
+
+办公区整体状态：
 ![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701121516.png)
 
 ## 八、总结
 
-除了理线，这次书房升级已经基本完工了
+到此为止，这次书房升级已经基本完工了
 
 首先，我还是要前置强调一下，书房和电脑配置的再好，也只是工具，不能跟健康成正比，本质上保持身体健康是靠以下几点，一定不能本末倒置，以为搞定了升降桌就身体倍儿棒了
 * 充足睡眠少熬夜，坚持运动
@@ -294,4 +297,3 @@
 真土豪：我又不用工作，要书房干嘛？
 
 ![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701125740.png)![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701125740.png)![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701125740.png)
-
