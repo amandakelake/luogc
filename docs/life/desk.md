@@ -33,15 +33,16 @@
 * 避免长时间面对手机电脑，多站起来，多眨眼睛
 * 避免长时间在漆黑环境使用屏幕
 
-先看看目前效果
-
+先看看目前效果，首先是坐着的高度
+[image:8CB0A09B-DC35-4676-ACC2-B2DCA6E040B2-389-0000BDA3861BCD46/D8E30A76-C001-4838-96C4-8B38EDC312EB.png]
 ![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701115922.png)
-![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701115939.png)
 
 升降到站立高度的状态，这个可能会是以后的常态
+左边站立办公，右边写写画画看看书之类的
+[image:BE82C536-71D4-4106-986D-3BF9406C3A40-389-00013C5FE04670EC/64C712A2-AA77-4F8E-B21F-AB796DACE7B0.png]
+![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200705170819.png)
 
-左边站立办公，右边写写画画看看书之类的（底下走线先忽略，收纳架还没到，强迫症是不能忍的）
-![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701120000.png)
+
 
 下面开始展开这波需求的详细调研、分析和实现交付过程
 
