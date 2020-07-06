@@ -34,12 +34,10 @@
 * 避免长时间在漆黑环境使用屏幕
 
 先看看目前效果，首先是坐着的高度
-[image:8CB0A09B-DC35-4676-ACC2-B2DCA6E040B2-389-0000BDA3861BCD46/D8E30A76-C001-4838-96C4-8B38EDC312EB.png]
 ![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701115922.png)
 
 升降到站立高度的状态，这个可能会是以后的常态
 左边站立办公，右边写写画画看看书之类的
-[image:BE82C536-71D4-4106-986D-3BF9406C3A40-389-00013C5FE04670EC/64C712A2-AA77-4F8E-B21F-AB796DACE7B0.png]
 ![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200705170819.png)
 
 
@@ -78,7 +76,9 @@
 发货后2天就到了，中午我不在家，直接让快递扔楼下保安亭了，晚上回去拿时，包装不大，但份量特别沉，好像是30+KG，我160斤的汉子搬上8楼，中途得停下来歇一口气
 
 然后就是拆箱，说明书是全英的，不过没关系，有一定实践能力的人看图也能搞
+
 我自己安装花了2个小时，任何工具都不用准备，里面全都有
+
 要注意一下的就是两个电机腿特别沉，搬动的时候小心不要砸到自己脚丫或者地板砖
 
 ![](https://raw.githubusercontent.com/amandakelake/picgo-images/master/images/20200701120137.png)
